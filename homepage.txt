@@ -1,3 +1,4 @@
 this is scm class for group g5 
 hello g5
-how are you
+how are you 
+i am fine
